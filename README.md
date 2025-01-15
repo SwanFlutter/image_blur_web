@@ -1,5 +1,7 @@
 ## ImageBlurWeb
 A Flutter widget that displays an image with a blur effect on the thumbnail image and transitions to the full-resolution image with a fade animation. This widget is perfect for improving the user experience when loading images, especially on the web.
+
+
 ## Features
 - Display a blurred thumbnail while the full image is being loaded.
 - Smooth fade transition from the thumbnail to the full-resolution image.
@@ -11,6 +13,13 @@ A Flutter widget that displays an image with a blur effect on the thumbnail imag
 - Supports semantic labels for accessibility.
 - Optional background color and tap gestures.
 - High performance and flexibility, ideal for web and mobile platforms.
+
+
+
+![20250115_051444](https://github.com/user-attachments/assets/7907c1f9-09f5-4ffc-a689-faa0302110fa)
+
+
+
 
 ## Getting started
 
