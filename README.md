@@ -16,7 +16,7 @@ A Flutter widget that displays an image with a blur effect on the thumbnail imag
 
 
 
-![20250115_051444](https://github.com/user-attachments/assets/7907c1f9-09f5-4ffc-a689-faa0302110fa)
+https://github.com/user-attachments/assets/ea201dfb-d788-4263-9e24-9302d85430d4
 
 
 
